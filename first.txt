@@ -4,3 +4,4 @@ test7
 test9
 newline to create conflict with remote
 another
+ngrep newline
